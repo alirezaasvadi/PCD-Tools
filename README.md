@@ -12,7 +12,10 @@ depends upon the distance, material, and the angle between surface normal and th
 **Installation of dependencies**
 
 pip install opencv-python
+
 pip install vtk
+
 pip install vtkInterface
+
 pip install mayavi
 
