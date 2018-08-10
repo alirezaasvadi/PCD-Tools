@@ -9,13 +9,11 @@ depends upon the distance, material, and the angle between surface normal and th
 
 ![snip_20180810174846](https://user-images.githubusercontent.com/5465785/43970775-8f3ba524-9cc6-11e8-82d0-86bf76219895.png)
 
-**Installation of dependencies**
+----------
+**Installation of dependencies:**
 
-pip install opencv-python
-
-pip install vtk
-
-pip install vtkInterface
-
-pip install mayavi
+- pip install opencv-python  
+- pip install vtk  
+- pip install vtkInterface  
+- pip install mayavi
 
